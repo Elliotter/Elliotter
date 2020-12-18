@@ -1,0 +1,40 @@
+{ "title":"林霞阁",
+  "author":"卷发擦边",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "links": {
+        "sidebar": {
+            "我的github": ""
+        }
+    },
+  "plugins": ["summary",
+			  "search-pro",
+			  "-lunr","-search","search-pro",
+			  "chapter-fold",
+			  "expandable-chapters",
+			  "splitter",
+			  "page-treeview",
+			  "anchor-navigation-ex",
+			  "back-to-top-button",
+			 
+			  "edit-link",
+			  "lightbox"
+			  ],
+  "pluginsConfig":{
+		"page-treeview":{
+			"copyright":"Copyright &#169; juanfacabian",
+			"minHeaderCounter":"2",
+			"minHeaderDeep":"2"
+						},
+		"anchor-navigation-ex":{
+						"showLevel":true,
+						"showGoTop":true
+						},
+		
+		"edit-link":{
+				"base":"//github.com//Elliotter/Elliotter.github.io/master",
+				"label":"编辑此页"
+		}
+				  }
+				  
+}
