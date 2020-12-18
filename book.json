@@ -2,6 +2,7 @@
   "author":"卷发擦边",
   "language": "zh-hans",
   "gitbook": "3.2.3",
+  
   "plugins": ["summary",
 			  "search-pro",
 			  "-lunr","-search","search-pro",
@@ -11,7 +12,7 @@
 			  "page-treeview",
 			  "anchor-navigation-ex",
 			  "back-to-top-button",
-			  "edit-link",
+
 			  "lightbox"
 			  ],
   "pluginsConfig":{

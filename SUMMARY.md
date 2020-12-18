@@ -1,30 +1,33 @@
-- [gitbook]()
-    - [fonts]()
-        - [fontawesome]()
-    - [gitbook-plugin-anchor-navigation-ex]()
-        - [lib]()
-        - [style]()
-    - [gitbook-plugin-back-to-top-button]()
-    - [gitbook-plugin-chapter-fold]()
-    - [gitbook-plugin-edit-link]()
-    - [gitbook-plugin-expandable-chapters]()
-    - [gitbook-plugin-fontsettings]()
-    - [gitbook-plugin-highlight]()
-    - [gitbook-plugin-lightbox]()
-        - [css]()
-        - [images]()
-        - [js]()
-    - [gitbook-plugin-page-treeview]()
-    - [gitbook-plugin-search-pro]()
-    - [gitbook-plugin-sharing]()
-    - [gitbook-plugin-splitter]()
-    - [images]()
-- [python](_book/python/README.md)
+
+## data_structure&algorithm
+
+- [data_structure&algorithm.md](data_structure&algorithm/data_structure&algorithm.md)
+
+## deeplearning
+
+- [CV]()
+    - [CV.md](deeplearning/CV/CV.md)
+- [ML]()
+    - [ML.md](deeplearning/ML/ML.md)
+- [NLP]()
+    - [NLP.md](deeplearning/NLP/NLP.md)
+- [deeplearning.md](deeplearning/deeplearning.md)
 
 ## docs
 
 
-## git
+## program_language
 
-- [python](python/README.md)
+- [program_language.md](program_language/program_language.md)
+- [python]()
+    - [学习资料](program_language/python/python.md)
 
+## tools
+
+- [git]()
+    - [git.md](tools/git/git.md)
+- [gitbook]()
+    - [gitbook.md](tools/gitbook/gitbook.md)
+- [tools.md](tools/tools.md)
+- [vim]()
+    - [vim.md](tools/vim/vim.md)
