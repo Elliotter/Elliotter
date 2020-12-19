@@ -1,8 +1,4 @@
 
-## data_structure&algorithm
-
-- [data_structure&algorithm.md](data_structure&algorithm/data_structure&algorithm.md)
-
 ## deeplearning
 
 - [CV]()
@@ -15,19 +11,85 @@
 
 ## docs
 
+- [data_structure&algorithm]()
+    - [data_structure&algorithm.md](docs/data_structure&algorithm/data_structure&algorithm.md)
+- [deeplearning]()
+    - [CV]()
+        - [CV.md](docs/deeplearning/CV/CV.md)
+    - [ML]()
+        - [ML.md](docs/deeplearning/ML/ML.md)
+    - [NLP]()
+        - [NLP.md](docs/deeplearning/NLP/NLP.md)
+    - [deeplearning.md](docs/deeplearning/deeplearning.md)
+- [gitbook]()
+    - [fonts]()
+        - [fontawesome]()
+    - [gitbook-plugin-anchor-navigation-ex]()
+        - [lib]()
+        - [style]()
+    - [gitbook-plugin-back-to-top-button]()
+    - [gitbook-plugin-chapter-fold]()
+    - [gitbook-plugin-expandable-chapters]()
+    - [gitbook-plugin-fontsettings]()
+    - [gitbook-plugin-highlight]()
+    - [gitbook-plugin-lightbox]()
+        - [css]()
+        - [images]()
+        - [js]()
+    - [gitbook-plugin-page-treeview]()
+    - [gitbook-plugin-search-pro]()
+    - [gitbook-plugin-sharing]()
+    - [gitbook-plugin-splitter]()
+    - [images]()
+- [program_language]()
+    - [program_language.md](docs/program_language/program_language.md)
+    - [python]()
+        - [python语言的学习](docs/program_language/python/python.md)
+- [tools]()
+    - [gitbook的使用]()
+        - [本地的安装与构建](docs/tools/gitbook的使用/1.本地的安装与构建.md)
+        - [发布到 GitHub Pages](docs/tools/gitbook的使用/2.发布至github.md)
+    - [git的使用]()
+        - [创建版本库](docs/tools/git的使用/1. 版本的创建与退回.md)
+        - [分支的管理](docs/tools/git的使用/2. 分支的管理.md)
+        - [远程仓库的管理](docs/tools/git的使用/3. 远程仓库的管理.md)
+    - [markdown的使用]()
+        - [Markdown的语法](docs/tools/markdown的使用/Markdown的语法.md)
+    - [vim的使用]()
+        - [光标的移动](docs/tools/vim的使用/1.光标的移动.md)
+        - [打开文件、查找内容](docs/tools/vim的使用/2.打开文件、查找内容.md)
+        - [文档的修改与保存](docs/tools/vim的使用/3.文档的修改与保存.md)
+        - [一些小技巧](docs/tools/vim的使用/4.一些小技巧.md)
+        - [分屏与标签页](docs/tools/vim的使用/5.分屏与标签页.md)
+        - [块操作](docs/tools/vim的使用/6.块操作.md)
+        - [Vim 中的宏](docs/tools/vim的使用/7.vim宏.md)
 
 ## program_language
 
 - [program_language.md](program_language/program_language.md)
 - [python]()
-    - [学习资料](program_language/python/python.md)
+    - [python语言的学习](program_language/python/python.md)
 
 ## tools
 
-- [git]()
-    - [git.md](tools/git/git.md)
-- [gitbook]()
-    - [gitbook.md](tools/gitbook/gitbook.md)
-- [tools.md](tools/tools.md)
-- [vim]()
-    - [vim.md](tools/vim/vim.md)
+- [gitbook的使用]()
+    - [本地的安装与构建](tools/gitbook的使用/1.本地的安装与构建.md)
+    - [发布到 GitHub Pages](tools/gitbook的使用/2.发布至github.md)
+- [git的使用]()
+    - [创建版本库](tools/git的使用/1. 版本的创建与退回.md)
+    - [分支的管理](tools/git的使用/2. 分支的管理.md)
+    - [远程仓库的管理](tools/git的使用/3. 远程仓库的管理.md)
+- [markdown的使用]()
+    - [Markdown的语法](tools/markdown的使用/Markdown的语法.md)
+- [vim的使用]()
+    - [光标的移动](tools/vim的使用/1.光标的移动.md)
+    - [打开文件、查找内容](tools/vim的使用/2.打开文件、查找内容.md)
+    - [文档的修改与保存](tools/vim的使用/3.文档的修改与保存.md)
+    - [一些小技巧](tools/vim的使用/4.一些小技巧.md)
+    - [分屏与标签页](tools/vim的使用/5.分屏与标签页.md)
+    - [块操作](tools/vim的使用/6.块操作.md)
+    - [Vim 中的宏](tools/vim的使用/7.vim宏.md)
+
+## 数据结构预算法
+
+- [data_structure&algorithm.md](数据结构预算法/data_structure&algorithm.md)

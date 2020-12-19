@@ -17,7 +17,7 @@
 			  ],
   "pluginsConfig":{
 		"page-treeview":{
-			"copyright":"Copyright &#169; juanfacabian",
+			"copyright":"",
 			"minHeaderCounter":"2",
 			"minHeaderDeep":"2"
 						},
