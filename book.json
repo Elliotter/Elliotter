@@ -36,6 +36,7 @@
 		"paperSize": "a4"
 	},
 	"plugins": [
+		"summary",
 		"search-pro",
 		"-lunr",
 		"-search",
