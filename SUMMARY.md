@@ -23,7 +23,6 @@
     * [1.python内置库](2_编程语言/python/1.python内置库.md)
     * [2.常见的itertools](2_编程语言/python/2.常见的itertools.md)
     * [3.特殊函数](2_编程语言/python/3.特殊函数.md)
-- [3_计算机课程](3_计算机课程/README.md)
 - 4_常见工具
   - gitbook的使用
     * [发布至github](4_常见工具/gitbook的使用/发布至github.md)
